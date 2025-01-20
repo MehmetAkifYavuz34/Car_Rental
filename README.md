@@ -2,7 +2,6 @@ CAR RENTAL
 In this project, a modern and stylish car rental application was created using TypeScript and React. The project attracts attention with its user-friendly interface and rich features. Powerful libraries such as React Router, Framer Motion, React Select and Tailwind CSS were used in the application.
 
 
-
 FEATURES
 Multi-page navigation with React Router DOM
 
